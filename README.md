@@ -7,7 +7,7 @@ The overlay automatically checks for new builds when you start the game and will
 
 ## How does it work
 
-The Astral mod right now is still in an alpha state, so some features are still in a work of progress. Currently, the game is hardcoded to be 3 frames **MAX**. This does not mean every correction will happen in three frames. It also has hardcoded 0-2 frames of delay based on ping. Each round, both computers will agree what the frames of delay will be based on the ping at the start of each round. 
+The Astral mod right now is still in an alpha state, so some features are still in a work of progress. Currently, the game is hardcoded to be 3 frames of rollback **MAX**. This does not mean every correction will happen in three frames. It also has hardcoded 0-2 frames of delay based on ping. Each round, both computers will agree what the frames of delay will be based on the ping at the start of each round. 
 
 **Transatlantic and transpacific connections have not been tested.** Use at own risk.
 
