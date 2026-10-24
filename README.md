@@ -7,7 +7,7 @@ The overlay automatically checks for new builds when you start the game and will
 
 ## How does it work
 
-The Astral mod right now is still in an alpha state, so some features are still in a work of progress. Currently, the game is hardcoded to be 3 frames **MAX**. This does not mean every correction will happen in three frames. It also has hardcoded 0-2 frames of rollback based on ping. Each round, both computers will agree what the frames of delay will be based on the ping at the start of each round. 
+The Astral mod right now is still in an alpha state, so some features are still in a work of progress. Currently, the game is hardcoded to be 3 frames **MAX**. This does not mean every correction will happen in three frames. It also has hardcoded 0-2 frames of delay based on ping. Each round, both computers will agree what the frames of delay will be based on the ping at the start of each round. 
 
 **Transatlantic and transpacific connections have not been tested.** Use at own risk.
 
@@ -16,9 +16,12 @@ The mod only supports 1v1 private lobbies and ranked mode. 3+ lobbies are not su
 ## Replays
 
 Replays are desynced from the rollback input history. End of round replays and in-game, full match replays will show what the game would've been like had it been native delay based netcode. It will not replay the rollback game. And honestly, spectating in lobbies will probably be desynced as well. This is not a priority to fix right now.
+<<<<<<< HEAD
 
 ## Known issues
 
 There are still bugs being discovered that freeze the game. When this happens, failure logs will be saved to `~/path/to/sc6/SoulCaliburVI/Binaries/Win64/Mods/SC6Rollback/logs/fail`. Send the latest `.zip` file for both players. The `.zip` file will have matching id's on them to indicate what match it is. Send them to my discord @benwithvees and tell me which characters and stage you used for that match.
 
 There's also an issue when activating CE and SC can flip the camera 180 degrees and swap sides of the screen. This is a weird bug caused by the mod. Since this doesn't necessarily effect gameplay since it happens right when tha animation pops and not during gameplay, this currently is not a priority to fix, but something I do plan on fixing eventually
+=======
+>>>>>>> 1b0a617644fca1eea84b64833d552146fcd6a1c5
