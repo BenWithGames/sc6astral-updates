@@ -1,7 +1,7 @@
 # Soul Calibur VI: Astral
 
 ## How to install
-Download an alpha build [here](https://github.com/BenWithGames/sc6astral-updates/releases). Extract anywhere and run `Install.exe` on Windows and `Install.run` on Linux. The prompt will ask you for the path to your SoulcaliburVI installation. The mod will automatically detect the path of your Soul Calibur VI installation. Just press enter to install or type in your path manually. Exit the command line when finished. Open Soul Calibur VI. **Make sure to set your game to borderless windowed mode to see the overlay**. The overlay will let you know if there is a new build to download. If there is, it will install it and you will have to restart your game to activate the new build.
+Download an alpha build [here](https://github.com/BenWithGames/sc6astral-updates/releases). Extract anywhere and run `Install.exe` on Windows and `Install.run` on Linux. The prompt will ask you for the path to your SoulcaliburVI installation. The mod will automatically detect the path of your Soul Calibur VI installation. Just press enter to install or type in your path manually. Exit the command line when finished. Open Soul Calibur VI. The overlay will let you know if there is a new build to download. If there is, it will install it and you will have to restart your game to activate the new build.
 
 The overlay automatically checks for new builds when you start the game and will check every 15 minutes to see if there is a new build. **You must be on the same build as your opponent to play rollback**.
 
